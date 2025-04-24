@@ -3,6 +3,23 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "dotenv": "^16.5.0",
+    "jsonwebtoken": "^9.0.2",
     "servor": "^4.0.2"
-  }
+  },
+  "name": "saving_the_token_and_setting_it_in_the_cookie_pa1",
+  "version": "1.0.0",
+  "description": "- Understand the process of JWT token encryption and decryption for secure data transmission.",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keerthana9944/Saving_the_token_and_setting_it_in_the_cookie_PA1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keerthana9944/Saving_the_token_and_setting_it_in_the_cookie_PA1/issues"
+  },
+  "homepage": "https://github.com/keerthana9944/Saving_the_token_and_setting_it_in_the_cookie_PA1#readme"
 }
